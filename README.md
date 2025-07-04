@@ -34,7 +34,7 @@
 
 | Talab              | Izoh                                                                                               |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
-| Dasturlash tili    | Python (versiya erkin, talabaga tanlov)                                                            |
+| Dasturlash tili    | Python (versiya erkin tanlanadi)                                                            |
 | Kutubxonalar       | `aiohttp` / `requests`, `beautifulsoup4` / `selenium`|
 | Ma’lumotlar bazasi | MySQL **yoki** PostgreSQL (MySQL tavsiya)                                                          |
 | Docker             | **Talab qilinmaydi**                                                                                  |
