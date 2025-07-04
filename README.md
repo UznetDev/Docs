@@ -5,11 +5,11 @@
 
 ## 1. Loyiha nomi
 
-**HeadHunter Vacancy Collector** — hh.uz (HeadHunter) saytidagi vakantliklarni real vaqt rejimida yig‘ish, tozalash va ma’lumotlar bazasiga joylashtirish uchun ETL tizimi.
+**HeadHunter Vacancy Collector** — hh.uz (HeadHunter) saytidagi ish elonlarini real vaqt rejimida yig‘ish, tozalash va ma’lumotlar bazasiga joylashtirish uchun ETL tizimi.
 
 ## 2. Maqsad
 
-- **Asosiy maqsad:** vakantlik ma’lumotlarini toza, dublikatsiyasiz va normalizatsiya qilingan shaklda saqlash.
+- **Asosiy maqsad:** ish elonlari ma’lumotlarini toza, dublikatsiyasiz va normalizatsiya qilingan shaklda saqlash.
 - **Qo‘shimcha:** kelgusida vizualizatsiya (Power BI) jarayonini yengillashtirish uchun standart dataset tayyorlash.
 
 ## 3. Tavsiya etiladigan rxitektura
