@@ -1,8 +1,11 @@
-# Texnik topshiriq (YANGILANGAN 2)
+# Texnik topshiriq 
+
+- Versiya 1.0 — 4 iyul 2025 (Asia/Tashkent)
+
 
 ## 1. Loyiha nomi
 
-**HeadHunter Vacancy Collector** — hh.uz saytidagi vakantliklarni real vaqt rejimida yig‘ish, tozalash va ma’lumotlar bazasiga joylashtirish uchun ETL tizimi.
+**HeadHunter Vacancy Collector** — hh.uz (HeadHunter) saytidagi vakantliklarni real vaqt rejimida yig‘ish, tozalash va ma’lumotlar bazasiga joylashtirish uchun ETL tizimi.
 
 ## 2. Maqsad
 
